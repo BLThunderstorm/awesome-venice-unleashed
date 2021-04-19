@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">Awesome Venice</h1>
+<h1 align="center">Awesome Venice Unleashed</h1>
 <p align="center">
 Great resources for <a href="https://veniceunleashed.net">Venice Unleashed</a>
 </p>
