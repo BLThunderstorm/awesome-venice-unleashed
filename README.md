@@ -16,14 +16,14 @@ This repository is sponsored by my other project, BLThunderstorm. It's an unoffi
 
 ## Modding tools
 
-- [MapEditor](https://github.com/BF3RM/MapEditor) - A realtime map editor mod for Venice Unleashed, made by the BF3RM devs
-- [VU Typescript Mod](https://github.com/AmazingTurtle/vu-typescript-mod) - A boilerplate mod that able to transpile Typescript into LuaVEXT. With this, you can make a VU mod with TS. Made by Amazing Turtle.
+- [MapEditor](https://github.com/BF3RM/MapEditor) - A realtime map editor mod for Venice Unleashed, made by the BF3RM devs.
+- [VU Typescript Mod](https://github.com/AmazingTurtle/vu-typescript-mod) - A boilerplate mod that able to transpile Typescript into LuaVEXT. With this, you can make a VU mod with TS. Made by AmazingTurtle.
 - [VextPack](https://github.com/BF3RM/VextPack) - Compiles WebUI into a .vuic file with Webpack.
-- [Vua](https://marketplace.visualstudio.com/items?itemName=Imposter.vscode-lua-vu)
+- [Vua](https://marketplace.visualstudio.com/items?itemName=Imposter.vscode-lua-vu) - This is a Visual Studio Code extension providing Venice Unleashed type information and intermediate code generation to make mod development less tedious.
 
 ## CLIs
 
-- [VU Mod Manager](https://github.com/BF3RM/vumm-cli) - A mod manager for Venice Unleashed, made by the BF3RM devs
+- [VU Mod Manager](https://github.com/BF3RM/vumm-cli) - A mod manager for Venice Unleashed, made by the BF3RM devs.
 
 ## Guides
 Read these guides and get some understanding on Venice Unleashed.
