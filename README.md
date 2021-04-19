@@ -4,9 +4,15 @@
 <p>Great resources for Venice Unleashed</p>
 </p>
 </div>
-| |
-| - |
-| This repository is sponsored by my other project, BLThunderstorm. It's an unofficial dashboard and stats-tracking site for Battlelog games. Check it out at [here](https://github.com/Nefomemes/BLThunderstorm).
+
+
+<table>
+<tbody>
+  
+This repository is sponsored by my other project, BLThunderstorm. It's an unofficial dashboard and stats-tracking site for Battlelog games. Check it out at [here](https://github.com/Nefomemes/BLThunderstorm).
+
+</tbody>
+</table>
 
 ## Modding tools
 
