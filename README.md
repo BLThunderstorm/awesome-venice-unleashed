@@ -1,7 +1,7 @@
 <div>
+<h1 align="center">Awesome Venice</h1>
 <p align="center">
-<h1>awesome-venice</h1>
-<p>Great resources for Venice Unleashed</p>
+Great resources for Venice Unleashed
 </p>
 </div>
 
