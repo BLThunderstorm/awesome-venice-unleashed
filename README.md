@@ -1,7 +1,7 @@
 <div>
 <h1 align="center">Awesome Venice</h1>
 <p align="center">
-Great resources for Venice Unleashed
+Great resources for <a href="https://veniceunleashed.net">Venice Unleashed</a>
 </p>
 </div>
 
