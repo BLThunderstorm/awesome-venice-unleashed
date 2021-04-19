@@ -40,6 +40,8 @@ Read these guides and get some understanding on Venice Unleashed.
 ## Inspirational Mods
 Sometimes you need some inspiration from other mods.
 
+- [Battlerecorder](https://community.veniceunleashed.net/search?q=Battlerecorder) - Records the battlefield!
+
 A lot of people made a monorepo out of their smaller mods.
 
 - [GreatApo/vu-greatmods](https://github.com/GreatApo/vu-greatmods) - A collection of mods made by GreatApo. Including mods like [Bot Civilianizer](https://github.com/GreatApo/vu-greatmods/tree/main/Bot-Civilianizer), [VehicleExitCollisionDamage](https://github.com/GreatApo/vu-greatmods/tree/main/VehicleExitCollisionDamage). etc!
