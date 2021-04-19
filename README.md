@@ -32,5 +32,6 @@ This repository is sponsored by my other project, BLThunderstorm. It's an unoffi
 
 A lot of people made a monorepo out of their smaller mods.
 
-- [GreatApo/vu-greatmods](https://github.com/GreatApo/vu-greatmods) - A collection of mods made by GreatApo. Including mods like [Bot Civilianizer](https://github.com/GreatApo/vu-greatmods/tree/main/Bot-Civilianizer)
+- [GreatApo/vu-greatmods](https://github.com/GreatApo/vu-greatmods) - A collection of mods made by GreatApo. Including mods like [Bot Civilianizer](https://github.com/GreatApo/vu-greatmods/tree/main/Bot-Civilianizer), pVehicleExitCollisionDamage](https://github.com/GreatApo/vu-greatmods/tree/main/VehicleExitCollisionDamage). etc!
+- [EmulatorNexus/VU-Mods](https://github.com/EmulatorNexus/VU-Mods) - Old mods developed by the developer of Venice Unleashed. EmulatorNexus!
 
