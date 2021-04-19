@@ -50,4 +50,4 @@ A lot of people made a monorepo out of their smaller mods.
 - [EmulatorNexus/VU-Mods](https://github.com/EmulatorNexus/VU-Mods) - Old mods developed by the developer of Venice Unleashed. Some of them no longer works.
 - [EmulatorNexus/VEXT-Samples](https://github.com/EmulatorNexus/VEXT-Samples) - Sample VEXT mods demonstrating various features and subsystems
 - [J4nssent/VU-Mods](https://github.com/J4nssent/VU-Mods) - Some useful and uselees VU mods made by J4nssent
-- [VU-Mods](https://github.com/FlashHit/VU-Mods) - Collection  of mods made by FlashHit.
+- [FlashHit/VU-Mods](https://github.com/FlashHit/VU-Mods) - Collection  of mods made by FlashHit.
