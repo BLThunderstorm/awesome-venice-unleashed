@@ -45,4 +45,4 @@ A lot of people made a monorepo out of their smaller mods.
 - [GreatApo/vu-greatmods](https://github.com/GreatApo/vu-greatmods) - A collection of mods made by GreatApo. Including mods like [Bot Civilianizer](https://github.com/GreatApo/vu-greatmods/tree/main/Bot-Civilianizer), [VehicleExitCollisionDamage](https://github.com/GreatApo/vu-greatmods/tree/main/VehicleExitCollisionDamage). etc!
 - [EmulatorNexus/VU-Mods](https://github.com/EmulatorNexus/VU-Mods) - Old mods developed by the developer of Venice Unleashed. Some of them no longer works.
 - [EmulatorNexus/VEXT-Samples](https://github.com/EmulatorNexus/VEXT-Samples) - Sample VEXT mods demonstrating various features and subsystems
-- [J4nssent](https://github.com/J4nssent/VU-Mods) - Some useful and uselees VU mods made by J4nssent
+- [J4nssent/VU-Mods](https://github.com/J4nssent/VU-Mods) - Some useful and uselees VU mods made by J4nssent
