@@ -5,6 +5,10 @@ Great resources for Venice Unleashed
 
 - [MapEditor](https://github.com/BF3RM/MapEditor) - A realtime map editor mod for Venice Unleashed, made by the BF3RM devs
 
+## CLIs
+
+- [VU Mod Manager, made by the BF3RM devs](https://github.com/BF3RM/vumm-cli)
+
 ## Guides
 
 - ["How to redefine spawnpoints" by BreeArnold](https://community.veniceunleashed.net/t/how-to-redefine-spawnpoints/397)
