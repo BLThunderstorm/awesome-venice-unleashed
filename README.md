@@ -30,10 +30,7 @@ This repository is sponsored by my other project, BLThunderstorm. It's an unoffi
 
 ## Inspirational Mods
 
-A lot of people made a monorepo out of their small mods.
-
-- 
-## Inspirational mods
+A lot of people made a monorepo out of their smaller mods.
 
 - [GreatApo/vu-greatmods](https://github.com/GreatApo/vu-greatmods) - A collection of mods made by GreatApo. Including mods like [Bot Civilianizer](https://github.com/GreatApo/vu-greatmods/tree/main/Bot-Civilianizer)
 
