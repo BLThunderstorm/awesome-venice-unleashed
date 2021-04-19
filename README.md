@@ -23,15 +23,18 @@ This repository is sponsored by my other project, BLThunderstorm. It's an unoffi
 - [VU Mod Manager](https://github.com/BF3RM/vumm-cli) - A mod manager for Venice Unleashed, made by the BF3RM devs
 
 ## Guides
+Read these guides and get some understanding on Venice Unleashed.
 
 - ["How to redefine spawnpoints"](https://community.veniceunleashed.net/t/how-to-redefine-spawnpoints/397) by BreeArnold
 - ["A quick how to use webx"](https://community.veniceunleashed.net/t/a-quick-how-to-use-webx/302), by BreeArnold
 - ["Running a local unlisted server for mod development"](https://community.veniceunleashed.net/t/running-a-local-unlisted-server-for-mod-development/1356), by OscarGB
+- [Official VEXT guide](https://docs.veniceunleashed.net/vext/guides/) - The official docs can get you started with how the Frostbite engine works. 
 
 ## Inspirational Mods
+Sometimes you need some inspiration from other mods.
 
 A lot of people made a monorepo out of their smaller mods.
 
 - [GreatApo/vu-greatmods](https://github.com/GreatApo/vu-greatmods) - A collection of mods made by GreatApo. Including mods like [Bot Civilianizer](https://github.com/GreatApo/vu-greatmods/tree/main/Bot-Civilianizer), pVehicleExitCollisionDamage](https://github.com/GreatApo/vu-greatmods/tree/main/VehicleExitCollisionDamage). etc!
-- [EmulatorNexus/VU-Mods](https://github.com/EmulatorNexus/VU-Mods) - Old mods developed by the developer of Venice Unleashed. EmulatorNexus!
-
+- [EmulatorNexus/VU-Mods](https://github.com/EmulatorNexus/VU-Mods) - Old mods developed by the developer of Venice Unleashed. Some of them no longer works.
+- [EmulatorNexus/](https://github.com/EmulatorNexus/VEXT-Samples) - Sample VEXT mods demonstrating various features and subsystems
