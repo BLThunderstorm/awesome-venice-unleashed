@@ -30,6 +30,11 @@ Read these guides and get some understanding on Venice Unleashed.
 - ["Running a local unlisted server for mod development"](https://community.veniceunleashed.net/t/running-a-local-unlisted-server-for-mod-development/1356), by OscarGB
 - [Official VEXT guide](https://docs.veniceunleashed.net/vext/guides/) - The official docs can get you started with how the Frostbite engine works. 
 
+## References
+- [EmulatorNexus/Venice-EBX](https://github.com/EmulatorNexus/Venice-EBX) - A dump of all things on Battlefield 3
+- [Powback's WEBX](https://webx.powback.com) - A dump of files from Battlefield 3 and newer titles, served in a website
+- [Official VeniceEXT Reference](https://docs.veniceunleashed.net/vext/ref/) - Official docs, what else. Including some worthy information on the differences between VEXT and standard Lua that can be found [here](https://docs.veniceunleashed.net/vext/).
+
 ## Inspirational Mods
 Sometimes you need some inspiration from other mods.
 
