@@ -5,15 +5,6 @@ Great resources for <a href="https://veniceunleashed.net">Venice Unleashed</a>
 </p>
 </div>
 
-
-<table>
-<tbody>
-  
-This repository is sponsored by my other project, BLThunderstorm. It's an unofficial dashboard and stats-tracking site for Battlelog games. Check it out at [here](https://github.com/Nefomemes/BLThunderstorm).
-
-</tbody>
-</table>
-
 ## Modding tools
 
 - [MapEditor](https://github.com/BF3RM/MapEditor) - A realtime map editor mod for Venice Unleashed, made by the BF3RM devs.
