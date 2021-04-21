@@ -34,6 +34,7 @@ Sometimes you need some inspiration from other mods.
 
 - [Battlerecorder](https://community.veniceunleashed.net/search?q=Battlerecorder) - Records the battlefield!
 - [VU-Loading](https://community.veniceunleashed.net/t/vu-loading-new-redesigned-4k-loading-screens/1961/3) - This mod replaces every loading screen with new and redesigned 4K screen
+- [VU-Compass](https://github.com/kapraran/vu-compass) - This mod added a compass to the UI. Warzone's compass is available as well.
 
 A lot of people made a monorepo out of their smaller mods.
 
